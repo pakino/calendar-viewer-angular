@@ -1,8 +1,8 @@
 # calendar-viewer-angular
 
-How to install it:
+## How to install it:
 
-1) git clone https://github.com/pakino/calendar-viewer-angular.git \n
+1) git clone https://github.com/pakino/calendar-viewer-angular.git
 2) cd calendar-viewer-angular
 3) npm install
 4) npm start
